@@ -4175,10 +4175,10 @@ a.pricing-value {
     padding: inherit;
     font-family: 'Montserrat', sans-serif;
     font-weight: 600;
-    color: #162e66;
+    color: #462029;
 }
 .custom-pagination-nav ul li a.page-link:hover{
-    background: #1351a8;
+    background: #462029;
     color: #FFFFFF;
 }
 .custom-pagination-nav ul li.page-item:first-child .page-link,
@@ -4192,8 +4192,8 @@ a.pricing-value {
     color: #1351a8;
 }
 .custom-pagination-nav ul li.page-item.active .page-link{
-    background-color: #1351a8;
-    border-color: #1351a8;
+    background-color: #462029;
+    border-color: #462029;
 }
 /*blog sidebar*/
 
@@ -4319,7 +4319,7 @@ button.scroll-top:focus{
     color: #ffffff;
     text-align: center;
     cursor: pointer;
-    background: #162e66;
+    background: #582833;
     transition: 1s ease;
     border: none;
 }
@@ -4515,4 +4515,17 @@ button.scroll-top:focus{
 #icon {
     height: 233.33px;
     width: 350px;
+
+}
+
+.little-banner {
+    height: 233.33px;
+    width: 350px;
+    background: #b04f66;
+    overflow: hidden;
+}
+
+.little-banner img {
+   object-fit: cover;
+   opacity: 0.75;
 }
