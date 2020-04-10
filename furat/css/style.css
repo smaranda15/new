@@ -794,7 +794,7 @@ select.form-control.has-value{
 
 @media (min-width: 320px) and (max-width: 992px) {
     .navbar.bg-transparent {
-        background: linear-gradient(75deg, #69303c 45%, #231014 ) !important;
+        background: linear-gradient(75deg, #69303c 5%, #231014 ) !important;
         padding: .45rem 1rem !important;
     }
     .navbar.custom-nav{
