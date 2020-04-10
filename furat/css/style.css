@@ -540,9 +540,9 @@ select.form-control.has-value{
     color: inherit;
 }
 .app-download-list li a:hover{
-    background: #162e66;
+    background: #35181e;
     color: #FFFFFF;
-    border-color: #162e66 !important;
+    border-color: #35181e !important;
 }
 /*=========================================
             04. HEADER CSS
@@ -794,14 +794,14 @@ select.form-control.has-value{
 
 @media (min-width: 320px) and (max-width: 992px) {
     .navbar.bg-transparent {
-        background: linear-gradient(75deg, #00994f 5%, #004d28) !important;
+        background: linear-gradient(75deg, #69303c 45%, #231014 ) !important;
         padding: .45rem 1rem !important;
     }
     .navbar.custom-nav{
         background: #ffffff;
     }
     .navbar.custom-nav .navbar-toggler{
-        color: #162e66 !important;
+        color: #35181e !important;
     }
     .navbar.custom-nav .navbar-toggler:focus{
         outline: none;
@@ -816,13 +816,13 @@ select.form-control.has-value{
     }
 
     .white-bg.custom-nav ul li a, .custom-nav ul li a {
-        color: #162e66 !important;
+        color: #35181e !important;
     }
     .white-bg.custom-nav ul li ul.sub-menu li a:hover, .custom-nav ul li ul.sub-menu li a:hover{
         color: #ffffff !important;
     }
     .white-bg.navbar .navbar-toggler span {
-        color: #162e66;
+        color: #35181e;
     }
 
     .ptb-100 {
@@ -861,7 +861,7 @@ select.form-control.has-value{
     }
 
     a.homer {
-        background: #374147;
+        background: #231014;
     }
 }
 
@@ -892,7 +892,7 @@ select.form-control.has-value{
     }
 
     .menu li a:hover,.menu li:hover>a {
-        background: #162e66;
+        background: #35181e;
         color: #fff;
     }
 
