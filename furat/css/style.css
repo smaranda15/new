@@ -209,22 +209,22 @@ strong, b {
 }
 
 .primary-bg {
-    background: #1351a8;;
+    background: #69303c;
 }
 
 .secondary-bg {
-    background: #162e66;
+    background: #231014;
 }
 
 .accent-bg{
     background: #ff6492;
 }
 .color-primary {
-    color: #1351a8;
+    color: #69303c;
 }
 
 .color-secondary {
-    color: #162e66;
+    color: #231014;
 }
 .accent-color{
     color: #ff6492;
@@ -255,7 +255,7 @@ a:hover {
 }
 
 .color-2 {
-    color: #1351a8;
+    color: #69303c;
 }
 
 .color-2-bg {
@@ -263,11 +263,11 @@ a:hover {
 }
 
 .color-3 {
-    color: #162e66;
+    color: #231014;
 }
 
 .color-3-bg {
-    background: rgba(0, 115, 236, 0.15);
+    background: rgba(105, 48, 60, 0.15);
 }
 
 .color-4, .ratting-color {
@@ -312,9 +312,9 @@ a:hover {
 }
 
 .primary-solid-btn {
-    border: 1px solid #162e66;
+    border: 1px solid #231014;
     box-shadow: 0 2px 4px -1px rgba(0, 0, 0, .15);
-    background-image: linear-gradient(to bottom, #1A2C79, #0e206d);
+    background-image: linear-gradient(to bottom, #69303c, #231014);
     color: #ffffff;
 
 }
@@ -336,35 +336,35 @@ a:hover {
 }
 .primary-solid-btn:hover {
     background: transparent;
-    color: #162e66;
+    color: #231014;
 }
 
 .secondary-solid-btn {
     color: #fff;
-    background: #1351a8;
-    border: 1px solid #1351a8;
+    background: #69303c;
+    border: 1px solid #69303c;
 }
 
 .secondary-solid-btn:hover {
     background: transparent;
-    color: #1351a8;
+    color: #69303c;
     -webkit-box-shadow: none;
     box-shadow: none;
 }
 .secondary-outline-btn{
-    color: #1351a8;
+    color: #69303c;
     display: inline-block;
-    border: 1px solid #1351a8;
+    border: 1px solid #69303c;
 }
 .secondary-outline-btn:hover{
-    background: #1351a8;
+    background: #69303c;
     color: #ffffff;
 }
 .outline-btn {
     position: relative;
     display: inline-block;
-    color: #162e66;
-    border: 1px solid #162e66;
+    color: #231014;
+    border: 1px solid #231014;
 }
 .outline-btn:after{
     content: " ";
@@ -378,7 +378,7 @@ a:hover {
     opacity: 0;
     transition: 400ms;
     text-shadow: 0 0.5px 0.3px rgba(0,0,0,.1);
-    background-image: linear-gradient(to bottom, #1351a8, #162477);
+    background-image: linear-gradient(to bottom, #69303c, #231014);
 }
 
 .outline-btn:hover:after{
@@ -386,7 +386,7 @@ a:hover {
 }
 .outline-btn:hover{
     color: #ffffff;
-    background-image: linear-gradient(to bottom, #1351a8,#162477);
+    background-image: linear-gradient(to bottom, #69303c, #231014);
 }
 .primary-bg h1, .primary-bg p {
     color: #fff;
@@ -395,7 +395,7 @@ a:hover {
 .solid-white-btn {
     background: #ffffff;
     border-color: #ffffff;
-    color: #162e66;
+    color: #231014;
 }
 
 .solid-white-btn:hover {
@@ -410,7 +410,7 @@ a:hover {
 
 .outline-white-btn:hover {
     background: #ffffff;
-    color: #162e66;
+    color: #231014;
 }
 
 /*icon size*/
