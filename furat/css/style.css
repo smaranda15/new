@@ -230,7 +230,7 @@ strong, b {
     color: #ff6492;
 }
 .gradient-bg {
-    background: linear-gradient(75deg,  #00994f 10%, #004d28) !important;
+    background: linear-gradient(75deg, #69303c 10%, #231014) !important;
 }
 
 .white-bg {
@@ -238,11 +238,11 @@ strong, b {
 }
 
 a {
-    color: #162e66;
+    color: #231014 ;
 }
 
 a:hover {
-    color: #1351a8;
+    color: #af5066;
     text-decoration: none;
 }
 
@@ -615,7 +615,7 @@ select.form-control.has-value{
 }
 
 .bg-transparent.affix {
-    background: linear-gradient(75deg, #00994f, 5%,#004d28) !important;
+    background: linear-gradient(75deg, #69303c, 45%, #231014 ) !important;
 }
 
 .navbar-toggler{
@@ -727,7 +727,7 @@ select.form-control.has-value{
 }
 .menu ul li a:hover, .menu ul li:hover>a {
     color: #ffffff;
-    background: #162e66;
+    background: #35181e;
 }
 
 .menu ul.sub-menu li:first-child a:hover,
@@ -1218,7 +1218,7 @@ select.form-control.has-value{
 .gradient-overlay:before{
     position: absolute;
     content: '';
-    background-image: linear-gradient(75deg, rgba(0, 153, 79, 0.85) 10%, rgba(0, 51, 26, 0.85));
+    background-image: linear-gradient(75deg, rgba(105, 48, 60, 0.85) 10%, rgba(35, 16, 20, 0.85));
     width: 100%;
     height: 100%;
     top: 0;
@@ -2133,7 +2133,7 @@ button.filter-btn:focus {
 a.detail-link {
     display: inline-block;
     text-decoration: none;
-    color: #495057;
+    color: #231014;
     font-weight: 600;
     font-size: 14px;
     font-family: 'Montserrat', sans-serif;
@@ -2150,7 +2150,7 @@ a.detail-link span {
 
 
 a.detail-link:hover {
-    color: #1351a8;
+    color: #af5066;
 }
 a.detail-link:hover span{
     transform: translateX(3px);
@@ -3869,7 +3869,7 @@ a.pricing-value {
 
 .tooltip-item{
     position: absolute;
-    background-color: rgb(25, 255, 255);
+    background-color: rgb(255, 255, 255);
     pointer-events: none;
     color: rgb(51, 51, 51);
     font-size: 13px;
@@ -3946,32 +3946,32 @@ a.pricing-value {
 .loader1 span:nth-child(1) {
     -webkit-animation-delay: -1s;
     animation-delay: -1s;
-    background:  rgba(41, 103, 230, 0.6);
+    background:  rgba(35, 16, 20, 0.6);
 }
 
 .loader1 span:nth-child(2) {
     -webkit-animation-delay: -0.8s;
     animation-delay: -0.8s;
-    background:  rgba(41, 103, 230, 0.8);
+    background:  rgba(35, 16, 20, 0.8);
 }
 
 .loader1 span:nth-child(3) {
     -webkit-animation-delay: -0.26666s;
     animation-delay: -0.26666s;
-    background: rgba(41, 103, 230, 1);
+    background: rgba(35, 16, 20, 1);
 }
 
 .loader1 span:nth-child(4) {
     -webkit-animation-delay: -0.8s;
     animation-delay: -0.8s;
-    background:  rgba(41, 103, 230, 0.8);
+    background:  rgba(35, 16, 20, 0.8);
 
 }
 
 .loader1 span:nth-child(5) {
     -webkit-animation-delay: -1s;
     animation-delay: -1s;
-    background:  rgba(41, 103, 230, 0.4);
+    background:  rgba(35, 16, 20, 0.4);
 }
 
 @keyframes loader1 {
