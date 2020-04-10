@@ -4521,11 +4521,11 @@ button.scroll-top:focus{
 .little-banner {
     height: 233.33px;
     width: 350px;
-    background: #b04f66;
+    background:  #26004d;
     overflow: hidden;
 }
 
 .little-banner img {
    object-fit: cover;
-   opacity: 0.8;
+   opacity: 0.7;
 }
